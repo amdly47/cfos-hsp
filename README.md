@@ -1,2 +1,2 @@
-# cfos-hsp
-CFOS-HSP HYBRID SECURITY PROTOCOL-Specification and White paper
+# cfos-hsp 
+CFOS_Whitepaper_v1.0.docx
